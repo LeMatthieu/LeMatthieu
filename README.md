@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend and frontend developpement with SIMPLON**
 
-- 👯 I’m looking to find a **business internship for August**
+- 👯 I’m looking to find a **business internship for november**
 
 - 💬 Ask me about **Help in html,CSS, Javascript**
 
