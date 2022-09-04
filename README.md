@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **matthieublaise3@gmail.com**
 
-- 📄 Know about my experiences [Send me an email to get my CV](Send me an email to get my CV)
+- 📄 Know about my experiences (Send me an email to get my CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
