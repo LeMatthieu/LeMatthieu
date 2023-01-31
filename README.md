@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to find a **cooperative training course starting in early march for 18 months**
 
-- 💬 Ask me about **Help in HTML,CSS, Javascript, Bootstrap, SQL, PHP, PhpMyAdmin **
+- 💬 Ask me about **Help in HTML,CSS, Javascript, Bootstrap, SQL, PHP, PhpMyAdmin**
 
 - 📫 How to reach me **matthieublaise3@gmail.com**
 
