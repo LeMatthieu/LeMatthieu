@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Backend and frontend developpement with SIMPLON**
 
-- 👯 I’m looking to find a **business internship for november**
+- 👯 I’m looking to find a **cooperative training course starting in early march for 18 months**
 
-- 💬 Ask me about **Help in html,CSS, Javascript**
+- 💬 Ask me about **Help in HTML,CSS, Javascript, Bootstrap, SQL, PHP, PhpMyAdmin **
 
 - 📫 How to reach me **matthieublaise3@gmail.com**
 
-- 📄 Know about my experiences [Send me an email to get my CV](Send me an email to get my CV)
+- 📄 Know about my experiences(Send me an email to get my CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
