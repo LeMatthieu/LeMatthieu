@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
-<h3 align="center">I'm currently learning frontend and backend in web/web mobile</h3>
+<h3 align="center">I just finished my training for web programming</h3>
 
 - 🔭 I’m currently working on **A website for buying/delivery of small farmer fruits/local foodtruck**
 
